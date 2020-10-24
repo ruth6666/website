@@ -1,0 +1,34 @@
+         h1 {
+                color: brown;
+            }
+
+            * {
+                border: solid;
+            }
+            
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content: space-around;
+    
+}
+.text{
+    background-color: cadetblue;
+}
+.main{
+    background-color: darkcyan;
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.main p{
+    background-color: darkorchid;
+    text-align: center;
+}
+.grid{
+    background-color: darkslateblue;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
